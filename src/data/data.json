@@ -1,0 +1,70 @@
+[
+    {
+   "Id" :1,     
+   "Name" : "Mit",
+   "Country":"USa",
+   "Company":"BCBS",
+   "ZipCode" :  77081,
+   "Salary":1000000
+
+     },
+   
+     {
+       "Id" :2,     
+       "Name" : "Lomoro",
+       "Country":"Sudan",
+       "Company":"Florida Blue",
+       "ZipCode" :  32256,
+       "Salary":100020 
+     },
+    
+     {
+       "Id" :3,     
+       "Name" : "Ritesh",
+       "Country":"Lonodn",
+       "Company":"Amazon",
+       "ZipCode" :  77082,
+       "Salary":1010202 
+     },
+     {
+       "Id" :4,     
+       "Name" : "Parth",
+       "Country":"India",
+       "Company":"Cisco",
+       "ZipCode" :  32256,
+       "Salary":250000
+     },
+     {
+       "Id" :5,     
+       "Name" : "Kishan",
+       "Country":"Canada",
+       "Company":"Dell",
+       "ZipCode" :  36777,
+       "Salary":2000000 
+     },
+     {
+       "Id" :6,     
+       "Name" : "Nanda",
+       "Country":"Mexico",
+       "Company":"Apple",
+       "ZipCode" :  67622,
+       "Salary":1912929 
+     },
+     {
+       "Id" :7,     
+       "Name" : "Sushil",
+       "Country":"Texas",
+       "Company":"Toypta",
+       "ZipCode" : 87878,
+       "Salary":1337373 
+     },
+     {
+       "Id" :8,     
+       "Name" : "Sandeep",
+       "Country":"Singapore",
+       "Company":"Yes Bank",
+       "ZipCode" :  67677,
+       "Salary":268999 
+     } 
+   
+]
